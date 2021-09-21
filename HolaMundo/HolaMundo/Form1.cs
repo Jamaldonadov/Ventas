@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ventas
+namespace HolaMundo
 {
     public partial class Form1 : Form
     {
@@ -19,7 +19,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Prohibido Rendirse respirar hondo y continuar");
+            MessageBox.Show("Prohibido rendirse respirar hondo y continuar");
         }
     }
 }
